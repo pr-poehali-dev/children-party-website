@@ -235,7 +235,7 @@ const Index = () => {
           <div className="flex justify-center gap-8 text-2xl mb-6">
             <a href="tel:+79110529886" className="hover:scale-110 transition-transform">📞 +7 (911) 052-98-86</a>
           </div>
-          <p className="text-lg opacity-90">© 2024 Сюрприз. Все права защищены.</p>
+          <p className="text-lg opacity-90">© 2025 Сюрприз. Все права защищены.</p>
         </div>
       </footer>
     </div>
