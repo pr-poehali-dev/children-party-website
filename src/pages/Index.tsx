@@ -59,7 +59,7 @@ const Index = () => {
   ];
 
   return (
-    <div className="min-h-screen bg-gradient-to-b from-purple-50 via-blue-50 to-yellow-50">
+    <div className="min-h-screen bg-gradient-to-b from-white via-purple-50 to-white">
       <section className="relative overflow-hidden py-20 px-4">
         <div className="absolute inset-0 bg-[url('https://cdn.poehali.dev/files/4f4dc899-e973-4440-ab21-94b3407cdd1d.jpg')] bg-cover bg-center opacity-10"></div>
         
@@ -93,7 +93,7 @@ const Index = () => {
         </div>
       </section>
 
-      <section className="py-20 px-4 bg-white/50">
+      <section className="py-20 px-4 bg-purple-50/30">
         <div className="container mx-auto">
           <h2 className="text-5xl font-bold text-center mb-4 text-foreground">
             Наши услуги
@@ -151,7 +151,7 @@ const Index = () => {
         </div>
       </section>
 
-      <section id="booking" className="py-20 px-4 bg-gradient-to-br from-primary/10 via-secondary/10 to-accent/10">
+      <section id="booking" className="py-20 px-4 bg-purple-100/50">
         <div className="container mx-auto max-w-2xl">
           <div className="text-center mb-12">
             <div className="text-6xl mb-4">🎂</div>
