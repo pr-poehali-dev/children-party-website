@@ -233,7 +233,7 @@ const Index = () => {
           <h3 className="text-4xl font-bold mb-4">СЮРПРИЗ</h3>
           <p className="text-xl mb-6">Детские праздники, которые запомнятся навсегда!</p>
           <div className="flex justify-center gap-8 text-2xl mb-6">
-            <a href="tel:+79999999999" className="hover:scale-110 transition-transform">📞 +7 (999) 999-99-99</a>
+            <a href="tel:+79110529886" className="hover:scale-110 transition-transform">📞 +7 (911) 052-98-86</a>
           </div>
           <p className="text-lg opacity-90">© 2024 Сюрприз. Все права защищены.</p>
         </div>
