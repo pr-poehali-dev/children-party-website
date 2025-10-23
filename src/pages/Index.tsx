@@ -53,9 +53,9 @@ const Index = () => {
   ];
 
   const gallery = [
-    "https://cdn.poehali.dev/projects/89abf3ae-5a6b-4e87-98c6-8447e9efd565/files/ad9c2e09-738b-43e8-8b61-ba1c9e23483c.jpg",
-    "https://cdn.poehali.dev/projects/89abf3ae-5a6b-4e87-98c6-8447e9efd565/files/728e5cf9-3674-4c55-965c-a017d0474357.jpg",
-    "https://cdn.poehali.dev/projects/89abf3ae-5a6b-4e87-98c6-8447e9efd565/files/9494cf64-9d7a-4761-aaed-f32598633ecb.jpg"
+    "https://cdn.poehali.dev/files/d1ac0d30-eb0c-4fd4-83f1-ab2ba616e5a8.jpg",
+    "https://cdn.poehali.dev/files/3c9f9dbc-1b5a-492b-9f1a-e75a8ad45b66.jpg",
+    "https://cdn.poehali.dev/files/d918d14d-ea35-4c3c-b281-03c208db25ba.png"
   ];
 
   return (
